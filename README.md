@@ -10,18 +10,20 @@ Stay consistent, follow each module, and by the end of this course you'll be abl
 
 This course is divided into **10 complete modules**, each focusing on a different aspect of web development:
 
-| Module | Topic | Description |
-|---------|--------|-------------|
-| 01 | HTML Fundamentals | Learn the building blocks of every website. |
-| 02 | Advanced HTML5 | Explore semantic tags, forms, and best practices. |
-| 03 | CSS Basics | Understand styling, colors, and layouts. |
-| 04 | Responsive Design | Make your websites mobile-friendly and adaptive. |
-| 05 | JavaScript Essentials | Learn how to add interactivity to your pages. |
-| 06 | DOM Manipulation | Master dynamic content updates and events. |
-| 07 | Modern JavaScript (ES6+) | Use latest features like arrow functions, promises, etc. |
-| 08 | Frontend Frameworks | Introduction to React and component-based architecture. |
-| 09 | Backend with Node.js | Learn to build APIs and server-side applications. |
-| 10 | Final Project | Combine everything into a real-world web app project! |
+| # | Module | One-line description |
+|---:|---|---|
+| 1 | Foundations: HTML & CSS | Learn semantic HTML and CSS layout, responsive design, and basic accessibility. |
+| 2 | JavaScript & DOM | Add interactivity: DOM manipulation, events, fetch/API calls, and async patterns. |
+| 3 | Modern Frontend Frameworks | Build component-based apps using React (overview of Vue/Svelte included). |
+| 4 | Backend: Node.js & Express | Create servers, REST APIs, middleware, and authentication with Node/Express. |
+| 5 | Backend: Flask & Django | Use Flask for lightweight apps and Django for full-featured, production-ready sites. |
+| 6 | Databases & ORMs | Design schemas and query data using MySQL/Postgres and MongoDB with ORMs. |
+| 7 | Dev Tools & Environment | Git/GitHub workflows, VS Code, terminal basics, Docker, and CI/CD overview. |
+| 8 | Deployment & Hosting | Deploy apps using Netlify, Vercel, Heroku, cloud basics, domains and SSL. |
+| 9 | Web Security & OWASP | Understand OWASP Top 10, secure coding practices, and basic vulnerability awareness. |
+|10 | Testing & Quality Assurance | Unit, integration, and end-to-end testing plus linting and code quality tools. |
+|11 | AI Integration in Web Dev | Use AI for code assistance, UI ideas, testing automation, and content/SEO help. |
+|12 | Projects & Capstone | Hands-on projects (portfolio, blog, e-commerce) culminating in a full-stack capstone. |
 
 ---
 
