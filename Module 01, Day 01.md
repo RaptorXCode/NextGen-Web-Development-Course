@@ -54,11 +54,8 @@ Install these extensions (search them in the Extensions tab):
 - **HTML CSS Support** — improves HTML & CSS autocompletion  
 
 ### 📂 Folder Setup
-Create a folder on your system, for example:
 
-- NextGen-Web-Course/
-└── Day01/
-- Open that folder in VS Code (`File → Open Folder`).
+Open that folder in VS Code (`File → Open Folder`).
 
 ---
 
@@ -81,6 +78,7 @@ Paste the following code 👇
     <p>Welcome to the NextGen Web Development Course.</p>
 </body>
 </html>
+
 
 ▶️ Run the Page
 
