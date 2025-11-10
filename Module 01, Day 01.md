@@ -56,11 +56,9 @@ Install these extensions (search them in the Extensions tab):
 ### 📂 Folder Setup
 Create a folder on your system, for example:
 
-NextGen-Web-Course/
+- NextGen-Web-Course/
 └── Day01/
-
-
-Open that folder in VS Code (`File → Open Folder`).
+- Open that folder in VS Code (`File → Open Folder`).
 
 ---
 
