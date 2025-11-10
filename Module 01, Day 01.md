@@ -82,3 +82,68 @@ Paste the following code 👇
 </body>
 </html>
 
+▶️ Run the Page
+
+Right-click the file and select “Open with Live Server”
+
+Your browser should display:
+
+Hello, Web Developers!
+Welcome to the NextGen Web Development Course.
+
+🧠 5. Understanding HTML Structure
+Section	Tag	Description
+<!DOCTYPE html>	—	Declares that the document is HTML5
+<html>	Root element	Wraps all content
+<head>	Metadata	Contains title, charset, and links
+<body>	Content	Visible part of the webpage
+<h1>	Heading	Used for main titles
+<p>	Paragraph	Used for text content
+🧩 6. Practice Task (Do It Yourself)
+
+Create another file named about.html
+and try to build your own personal intro page.
+
+📝 Requirements:
+
+Add your name as a main heading (<h1>)
+
+Write a short paragraph about yourself (<p>)
+
+Add a line like “Contact me at your@email.com
+”
+
+Example:
+
+<h1>John Doe</h1>
+<p>I am learning web development with RaptorXCode.</p>
+<p>Contact me at johndoe@email.com</p>
+
+
+Run it using Live Server and check your result!
+
+💡 7. Pro Tips
+
+Always name your main file index.html (it loads first by default).
+
+Use Prettier to keep your code neat and readable.
+
+Save your work frequently using Ctrl + S or Cmd + S.
+
+Practice daily — consistency is the real key to mastery.
+
+📅 8. Coming Next
+
+In Day 02, we’ll explore:
+
+HTML Tags, Elements, and Attributes — the real building blocks of every webpage.
+
+🌐 Connect With Me
+
+Stay connected for more lessons, tutorials, and daily updates 👇
+
+📸 Instagram: instagram.com/raptorxcode
+
+▶️ YouTube: @RaptorXCode
+
+© 2025 RaptorXCode | Part of the NextGen Web Development Course
