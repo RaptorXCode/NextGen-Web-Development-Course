@@ -55,3 +55,32 @@ Install these extensions (search them in the Extensions tab):
 
 ### 📂 Folder Setup
 Create a folder on your system, for example:
+
+NextGen-Web-Course/
+└── Day01/
+
+
+Open that folder in VS Code (`File → Open Folder`).
+
+---
+
+## 💻 4. Creating Your First HTML File
+
+Inside your folder, create a new file named `index.html`.
+
+Paste the following code 👇  
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My First Web Page</title>
+</head>
+<body>
+    <h1>Hello, Web Developers!</h1>
+    <p>Welcome to the NextGen Web Development Course.</p>
+</body>
+</html>
+
